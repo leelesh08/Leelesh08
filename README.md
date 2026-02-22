@@ -4,7 +4,6 @@
 - 🔭 My repositories showcase projects in web development, cybersecurity tools</br>
 - 🌱 Always eager to learn</br>
 - 😄 Pronouns: He/Him<br>
-- 👯 You can also check out my Instagram: https://www.instagram.com/imzest_lee?igsh=MWY4b2U2YW14MHJ2Yw==
 
 
 ## 🌐 Socials:
